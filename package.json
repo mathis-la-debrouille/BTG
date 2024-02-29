@@ -1,6 +1,10 @@
 {
   "dependencies": {
-    "discord.js": "^14.14.1"
+    "@google/generative-ai": "^0.2.1",
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security",
+    "googleapis": "^133.0.0",
+    "path": "^0.12.7"
   },
   "name": "btg",
   "version": "1.0.0",
